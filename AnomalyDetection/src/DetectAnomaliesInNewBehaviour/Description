@@ -1,0 +1,2 @@
+Use this package to assess given new behaviour as anomalous or not. 
+So all logs are turned into rules, new unseen behaviour is assessed based on this rules as anomalous or not!

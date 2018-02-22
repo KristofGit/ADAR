@@ -1,0 +1,1 @@
+Use this package to filter given logs for anomalous traces, e.g., to later on use them to train other anomly detection approaches

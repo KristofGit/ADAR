@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="lib" path="Libs/OpenXES-2.0/lib/guava-16.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="Libs/OpenXES-2.0/lib/OpenXES-XStream.jar"/>
+	<classpathentry exported="true" kind="lib" path="Libs/OpenXES-2.0/lib/OpenXES.jar"/>
+	<classpathentry exported="true" kind="lib" path="Libs/OpenXES-2.0/lib/Spex.jar"/>
+	<classpathentry exported="true" kind="lib" path="Libs/OpenXES-2.0/lib/xpp3_min-1.1.4c.jar"/>
+	<classpathentry exported="true" kind="lib" path="Libs/OpenXES-2.0/lib/xstream-1.3.1.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Helper"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
